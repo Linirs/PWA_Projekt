@@ -1,0 +1,17 @@
+{
+    "theme_color" : "#373432",
+    "background_color" : "#f69435",
+    "display" : "fullscreen",
+    "scope" : "/",
+    "start_url" : "/PWA_Projekt/",
+    "name" : "Animals of Earth",
+    "short_name" : "AnimalsOfEarth",
+    "orientation" : "portrait",
+    "icons" : [
+        {
+            "src" : "./img/icon.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        }
+    ]
+}
