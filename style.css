@@ -16,5 +16,19 @@ header {
 }
 header h1 {
     margin-bottom: 5px;
+    padding-bottom: 2px;
     border-bottom: 1px solid black;
+}
+
+.all_animals {
+    padding: 20px;
+}
+.single_animal img {
+    width: 100%;
+}
+footer {
+    padding: 20px;
+    background-color: darkblue;
+    color: wheat;
+    text-align: center;
 }
