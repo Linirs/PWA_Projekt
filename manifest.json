@@ -2,7 +2,7 @@
     "theme_color" : "#373432",
     "background_color" : "#f69435",
     "display" : "fullscreen",
-    "scope" : "/",
+    "scope" : "/PWA_Projekt/",
     "start_url" : "/PWA_Projekt/",
     "name" : "Animals of Earth",
     "short_name" : "AnimalsOfEarth",
